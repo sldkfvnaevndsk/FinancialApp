@@ -16,12 +16,12 @@ git clone https://github.com/sldkfvnaevndsk/FinancialApp.git
 ```
 2. You have two ways to run the program
     1. Run FinancialApp.java from the folder "src", using any IDE for Java (e.g., IntelliJ IDEA)
-    2. Launch Git Bash in the folder "src" and run finances.jar.
+    2. Launch Git Bash in the folder "src" and run finances.jar
        ```
        java -jar finances.jar
        ```
 ___
 **Applying**
 
-Interaction with the program occur through entering a command number and your finances into the command line. All commands will be displayed on the screen.
+Interaction with the program occurs through entering a command number and your finances into the command line. All commands will be displayed on the screen.
 If expenses and gains are real numbers, they are separated by the dot.
